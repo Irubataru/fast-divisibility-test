@@ -1,6 +1,6 @@
 # Fast divisibility testing
 
-This is an implementation of [this]() wonderful article about fast divisibilit
+This is an implementation of [this](http://clomont.com/efficient-divisibility-testing/) wonderful article about fast divisibilit
 testing for fixed length integers using template metaprogramming in C++. It is
 one of those WIP projects that might never actually be finished, so at the
 moment it only works for 32-bit odd unsigned integers.
